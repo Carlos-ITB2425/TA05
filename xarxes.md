@@ -28,8 +28,8 @@ Algunes accions per reduir els efectes ambientals de l'ús de la IA en xarxes in
 
 ## IA: Cisco AI Networking Analytics
 
-- Link: Cisco AI Networking
+- Link: [Cisco AI Networking](https://www.cisco.com/)
 
 ## IA: Juniper Mist AI (Gestió de xarxes amb IA per optimitzar el rendiment).
 
-- Link: Juniper Mist AI
+- Link: [Juniper Mist AI](https://www.juniper.net/)

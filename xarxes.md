@@ -1,150 +1,64 @@
 # Manual d'IA en l'àmbit de la informàtica (ASIX)
+![Data Center amb energia renovable](4.webp)
+# Manual d'ús i impacte de Darktrace AI
 
 ## Índex
-1. Introducció  
-2. Xarxes  
-   - Aplicacions de la IA  
-   - Impacte al sector  
-   - Impacte ambiental  
-   - Propostes per minimitzar els impactes ambientals  
-3. Gestió de la seguretat  
-   - Aplicacions de la IA  
-   - Impacte al sector  
-   - Impacte ambiental  
-   - Propostes per minimitzar els impactes ambientals  
-4. Suport tècnic  
-   - Aplicacions de la IA  
-   - Impacte al sector  
-   - Impacte ambiental  
-   - Propostes per minimitzar els impactes ambientals  
-5. Anàlisi de dades  
-   - Aplicacions de la IA  
-   - Impacte al sector  
-   - Impacte ambiental  
-   - Propostes per minimitzar els impactes ambientals  
-6. Desenvolupament  
-   - Aplicacions de la IA  
-   - Impacte al sector  
-   - Impacte ambiental  
-   - Propostes per minimitzar els impactes ambientals  
+1. Introducció a Darktrace AI  
+2. Aplicacions de la IA  
+3. Impacte al sector  
+4. Impacte ambiental  
+5. Propostes per minimitzar els impactes ambientals  
 
 ---
 
-## 1. Introducció
+## 1. Introducció a Darktrace AI
 
-Aquest manual explora les aplicacions de la intel·ligència artificial (IA) en l'àmbit de la informàtica, especialment dins el perfil d'Administració de Sistemes Informàtics en Xarxa (ASIX). L'objectiu és descriure com les IAs estan transformant camps com xarxes, seguretat, suport tècnic, anàlisi de dades i desenvolupament, i com es poden abordar els impactes ambientals associats.
+Darktrace és una eina avançada d’intel·ligència artificial aplicada a la ciberseguretat. Utilitza l’aprenentatge automàtic i l’anàlisi del comportament per detectar i respondre a ciberamenaces en temps real. La seva funcionalitat principal és l’ús d’algoritmes de Machine Learning per comprendre el "comportament normal" d’una xarxa i identificar anomalies que podrien ser indicatives d’activitats malicioses.
 
----
-
-## 2. Xarxes
-
-### Aplicacions de la IA
-- **Cisco AI Network Analytics:** Optimització del trànsit de xarxa i detecció d'anomalies.  
-- **Juniper Mist AI:** Gestió de xarxes Wi-Fi amb diagnòstic automàtic.  
-- **Darktrace:** Detecció i resposta a ciberamenaces en xarxes.  
-
-### Impacte al sector
-- Millora de la seguretat de les xarxes amb detecció proactiva de ciberamenaces.  
-- Reducció de temps d'inactivitat gràcies a la resolució automàtica de problemes.  
-- Optimització de l'eficiència operativa en xarxes complexes.  
-
-### Impacte ambiental
-- Consum energètic elevat en data centers per processar grans volums de dades.  
-- Generació d'una empremta de carboni significativa si es depèn d'energia no renovable.  
-
-### Propostes per minimitzar els impactes ambientals
-- Utilització de data centers amb energia renovable.  
-- Algoritmes optimitzats per reduir el consum computacional.  
-- Implementació de **edge computing** per reduir la transmissió de dades.  
+![Darktrace AI detectant amenaces en una xarxa complexa.](tres.png)
 
 ---
 
-## 3. Gestió de la seguretat
+## 2. Aplicacions de la IA
 
-### Aplicacions de la IA
-- **IBM QRadar Advisor with Watson:** Anàlisi d'incidents de seguretat amb recomanacions automatitzades.  
-- **CrowdStrike Falcon:** Detecció i prevenció de ciberamenaces avançades.  
-- **SentinelOne:** IA per protegir contra malware i atacs zero-day.  
+Les aplicacions de Darktrace en el camp de la ciberseguretat són àmplies i crucials per protegir les xarxes modernes:
 
-### Impacte al sector
-- Increment de la seguretat proactiva en entorns corporatius i privats.  
-- Reducció de les bretxes de seguretat amb respostes automatitzades.  
-- Augment de la confiança en la protecció de dades.  
-
-### Impacte ambiental
-- Consum elevat d'energia en l'entrenament d'algoritmes i l'anàlisi constant de dades.  
-- Dependència de recursos d'alt rendiment, com GPUs, que contribueixen a emissions de CO₂.  
-
-### Propostes per minimitzar els impactes ambientals
-- Optimització d'algoritmes per consumir menys energia.  
-- Integració amb infraestructures que utilitzin fonts d'energia neta.  
-- Consolidació de sistemes de seguretat per reduir redundàncies.  
+- **Autonomous Response amb Antigena**: Darktrace pot implementar accions automàtiques per bloquejar o contenir amenaces sense intervenció humana.  
+- **Detecció d'anomalies avançades**: Analitza dades en temps real per identificar comportaments no usuals en dispositius o usuaris.  
+- **Protecció d'entorns híbrids**: Funciona en infraestructures locals, al núvol i en sistemes IoT.  
+- **Visibilitat total de la xarxa**: Permet veure i comprendre totes les connexions i tràfics dins de la xarxa.  
 
 ---
 
-## 4. Suport tècnic
+## 3. Impacte al sector
 
-### Aplicacions de la IA
-- **ServiceNow Virtual Agent:** Resolució automàtica d'incidències de suport tècnic.  
-- **Zendesk AI:** Millora la gestió i priorització de tiquets de suport.  
-- **Google Cloud AI for ITSM:** Anàlisi de problemes tècnics amb solucions automatitzades.  
+L'ús de Darktrace ha transformat el camp de la ciberseguretat:
 
-### Impacte al sector
-- Reducció de temps de resolució de problemes tècnics.  
-- Millora en la satisfacció dels usuaris gràcies a respostes més ràpides i precises.  
-- Reducció de la càrrega de treball per als tècnics humans.  
+- **Detecció proactiva d'amenaces**: Redueix significativament el temps entre el moment en què es detecta una amenaça i el moment en què s’actua sobre ella.  
+- **Eficiència operativa**: Permet que els equips de seguretat se centrin en tasques crítiques mentre Darktrace s'encarrega d'aspectes rutinaris i automàtics.  
+- **Confiança en la seguretat**: Millora la capacitat d’adaptar-se a amenaces noves i desconegudes, incloent zero-day attacks.  
 
-### Impacte ambiental
-- Consum energètic en el processament de dades de suport tècnic a gran escala.  
-- Necessitat de mantenir sistemes d'IA actius contínuament.  
-
-### Propostes per minimitzar els impactes ambientals
-- Ús d'arquitectures **serverless** per optimitzar l'ús de recursos.  
-- Reducció de la mida dels models utilitzats per a tasques de suport.  
-- Implementació de polítiques per apagar serveis inactius automàticament.  
+![Exemple d'impacte de Darktrace en una infraestructura de seguretat moderna.](dos.jpg)
 
 ---
 
-## 5. Anàlisi de dades
+## 4. Impacte ambiental
 
-### Aplicacions de la IA
-- **Microsoft Azure Machine Learning:** Processament i anàlisi de grans volums de dades.  
-- **Google BigQuery ML:** Entrenament de models d'aprenentatge automàtic en bases de dades.  
-- **DataRobot:** Creació de models automatitzats per a l'anàlisi predictiva.  
+L’ús de Darktrace també té repercussions ambientals que cal tenir en compte:
 
-### Impacte al sector
-- Facilita la presa de decisions basada en dades.  
-- Augment de la productivitat gràcies a la identificació d'oportunitats en temps real.  
-- Millora de la precisió en l'anàlisi gràcies als models automatitzats.  
+- **Consum energètic elevat**: Darktrace requereix servidors i data centers per analitzar grans quantitats de dades, la qual cosa implica un alt consum d’energia.  
+- **Dependència d'infraestructures tecnològiques**: Les instal·lacions necessàries poden contribuir a emissions de carboni si no utilitzen fonts d’energia renovable.  
 
-### Impacte ambiental
-- Requisits elevats d'emmagatzematge i processament, augmentant el consum d'energia.  
-- Dependència de centres de dades grans i intensius en recursos.  
-
-### Propostes per minimitzar els impactes ambientals
-- Implementació d'estratègies de **data compression** per reduir la mida de les dades.  
-- Ús de plataformes cloud amb compromís de sostenibilitat.  
-- Prioritzar l'ús de dades rellevants per evitar sobreprocessament.  
-
+![d](image.png)
 ---
 
-## 6. Desenvolupament
+## 5. Propostes per minimitzar els impactes ambientals
 
-### Aplicacions de la IA
-- **GitHub Copilot:** Suggeriments automàtics per escriure codi de manera eficient.  
-- **Tabnine:** Generació de codi basada en IA compatible amb diversos llenguatges.  
-- **DeepCode:** Identificació d'errors i millores en el codi font.  
+Per reduir l’impacte ambiental derivat de l’ús de Darktrace, es poden implementar les següents mesures:
 
-### Impacte al sector
-- Reducció del temps necessari per escriure i revisar codi.  
-- Millora de la qualitat del programari desenvolupat.  
-- Increment de l'accessibilitat al desenvolupament per a nous programadors.  
+1. **Utilitzar data centers verds**: Allotjar Darktrace en infraestructures que utilitzin energia renovable i eficiència energètica.  
+2. **Optimització d'algoritmes**: Millorar els models de IA perquè requereixin menys potència computacional.  
+3. **Polítiques de gestió energètica**: Configurar Darktrace per reduir operacions redundants i prioritzar anàlisis només en moments crítics.  
+4. **Edge Computing**: Emmagatz
 
-### Impacte ambiental
-- Increment en el consum d'energia per entrenar models d'IA específics.  
-- Necessitat de mantenir plataformes actives per donar suport als desenvolupadors en temps real.  
-
-### Propostes per minimitzar els impactes ambientals
-- Utilitzar models IA preentrenats i optimitzats per reduir recursos.  
-- Treballar amb entorns de desenvolupament locals per disminuir la dependència del núvol.  
-- Promoure plataformes d'IA que utilitzin energia renovable.  
+![d](DALL·E%202024-12-12%2008.59.19%20-%20An%20illustration%20of%20a%20modern%20AI-powered%20data%20center%20with%20sleek%20servers%20and%20glowing%20LED%20lights,%20emphasizing%20energy%20efficiency.%20The%20servers%20are%20connected.webp)

@@ -1,71 +1,131 @@
-# Intel·ligència Artificial en Informàtica - ASIX
+# IAs per a l'anàlisi de dades
 
-> Aquest manual explora les aplicacions i impactes de la IA en el camp de l'anàlisi de dades dins l'àmbit d'ASIX, amb propostes per abordar els reptes ambientals.
+Aquest manual descriu les aplicacions, impactes sectorials i ambientals, i proposa solucions per mitigar l'impacte ambiental de cinc IAs populars utilitzades en l'anàlisi de dades.
 
 ---
 
-## 📊 Anàlisi de dades
+## 1. ChatGPT 🧠💬
 
-### 📌 Aplicacions de la IA
+### Les aplicacions de la IA
+- Generació de respostes basades en dades per a consultes.
+- Suport en la interpretació de dades textuals complexes.
+- Automatització de resums i extracció d'informació clau.
 
-Les aplicacions més comunes de la IA en l'anàlisi de dades inclouen:
+🔗 **[Enllaç a l'aplicació](https://openai.com/chatgpt)**
 
-- **Predicció de tendències**: Anàlisi de grans volums de dades per predir comportaments futurs en mercats, usuaris o processos empresarials.
-- **Processament de dades massives**: Processament automàtic de Big Data per identificar patrons i correlacions.
-- **Visualització de dades**: Creació d'eines interactives que permeten una comprensió millorada de dades complexes.
-- **Optimització d'algoritmes**: Desenvolupament d'algoritmes més eficients per a la classificació i la regressió.
+### Impacte al sector
+- Millora de la productivitat analítica.
+- Reducció del temps necessari per al processament de grans volums de dades textuals.
+- Ampliació de les capacitats de suport tècnic en empreses.
 
-#### Exemple de comanda per al processament de dades:
-```python
-import pandas as pd
-# Càrrega del conjunt de dades
-data = pd.read_csv('dataset.csv')
-# Anàlisi de les estadístiques bàsiques
-data.describe()
-```
+### Impacte ambiental 🌍
+- Gran consum d'energia durant l'entrenament i l'ús dels models.
+- Generació d'emissions de CO₂ a causa dels centres de dades.
 
-### 🏢 Impacte al sector
+### Propostes per minimitzar els impactes ambientals ♻️
+- Optimització dels algorismes per reduir el consum energètic.
+- Ús de centres de dades alimentats per energies renovables.
+- Promoció de l'ús compartit de models per evitar duplicació d'entrenaments.
 
-> La IA està transformant la manera com es processen i analitzen les dades, amb impactes significatius en diversos sectors.
+---
 
-- **Eficàcia millorada**: Reducció del temps necessari per analitzar dades complexes i extreure conclusions.
-- **Noves oportunitats de negoci**: Les empreses poden identificar noves línies de productes o serveis gràcies a una comprensió més profunda dels patrons del mercat.
-- **Desplaçament laboral**: Les tasques rutinàries d'anàlisi són automatitzades, creant una necessitat de *reskilling* per als treballadors.
+## 2. TensorFlow 🤖📊
 
-### 🌍 Impacte ambiental
+### Les aplicacions de la IA
+- Desenvolupament de models de machine learning per a prediccions.
+- Anàlisi d'imatges, seqüències i dades estructurades.
+- Optimització d'operacions empresarials basades en dades.
 
-La IA té un impacte notable sobre el medi ambient, especialment en l'àmbit de l'anàlisi de dades:
+🔗 **[Enllaç a l'aplicació](https://www.tensorflow.org/)**
 
-1. **Consum energètic**: Els models d'aprenentatge profund utilitzats per processar grans volums de dades poden requerir grans quantitats d'energia.
-2. **Generació de residus electrònics**: L'obsolescència de maquinari utilitzat per al càlcul massiu.
-3. **Ús excessiu de recursos naturals**: Per fabricar maquinari especialitzat com les GPU.
+### Impacte al sector
+- Facilita la creació d'aplicacions d'intel·ligència artificial personalitzades.
+- Reducció d'errors en processos predictius.
+- Potenciació de la investigació i la innovació en IA.
 
+### Impacte ambiental 🌍
+- Alt ús de recursos computacionals per a l'entrenament i desplegament de models.
+- Generació de residus electrònics associats al hardware.
 
-### 💡 Propostes per minimitzar els impactes ambientals
+### Propostes per minimitzar els impactes ambientals ♻️
+- Promoció de la reutilització de models ja existents.
+- Inversió en hardware més eficient energèticament.
+- Implementació de tècniques de machine learning més lleugeres.
 
-Per reduir l'impacte ecològic, proposem:
+---
 
-- **Optimització energètica**: Desenvolupar models IA menys intensius en energia o que utilitzin hardware més eficient.
-- **Reutilització de maquinari**: Promoure la reutilització i el reciclatge de components electrònics.
-- **Fonts d'energia renovable**: Alimentar els centres de dades amb energia solar, eòlica o altres fonts sostenibles.
-- **Reducció de complexitat en models**: Apostar per arquitectures de xarxes neuronals més simples i igualment efectives.
+## 3. Tableau 📈🎨
 
-#### Exemple de model optimitzat:
-```python
-from sklearn.ensemble import RandomForestClassifier
-# Creació d'un model amb paràmetres optimitzats
-model = RandomForestClassifier(n_estimators=100, max_depth=5)
-model.fit(X_train, y_train)
-```
- ## IA: Google Cloud AI (Anàlisi de grans volums de dades).
+### Les aplicacions de la IA
+- Visualització interactiva de dades.
+- Generació d'informes automàtics i personalitzats.
+- Detecció de patrons i anomalies en conjunts de dades grans.
 
-- Google Cloud AI ofereix eines per analitzar i treure insights de grans volums de dades, incloent-hi models de machine learning preentrenats, eines per a la creació de models personalitzats i serveis per integrar AI directament a aplicacions empresarials.
+🔗 **[Enllaç a l'aplicació](https://www.tableau.com/)**
 
-- Link: [Google Cloud AI](https://cloud.google.com/ai/generative-ai#generative-ai-on-google-cloud)
+### Impacte al sector
+- Millora de la comprensió de les dades a tots els nivells de l'empresa.
+- Reducció del temps de presa de decisions basades en dades.
+- Increment en l'eficiència de l'anàlisi de dades.
 
- ## IA: Tableau Einstein Analytics (Anàlisi i visualització avançada).
- 
-- Tableau Einstein combina funcionalitats de visualització avançada amb eines d’AI predictiva per donar suport a la presa de decisions basades en dades. Les seves característiques inclouen la predicció de tendències i l’optimització de fluxos de treball empresarials mitjançant insights accionables i generats automàticament​.
+### Impacte ambiental 🌍
+- Recursos energètics necessaris per al processament de dades en temps real.
+- Dependència de grans centres de dades per emmagatzemar visualitzacions.
 
-- Link: [Tableau Einstein](https://www.tableau.com/)
+### Propostes per minimitzar els impactes ambientals ♻️
+- Integració amb plataformes d'energia verda.
+- Reducció de la resolució de gràfics quan no sigui necessària.
+- Promoció de pràctiques responsables de gestió de dades.
 
+---
+
+## 4. RapidMiner 🛠️📊
+
+### Les aplicacions de la IA
+- Processament de dades automatitzat.
+- Generació de models predictius per a diverses indústries.
+- Optimització de processos empresarials mitjançant l'aprenentatge automàtic.
+
+🔗 **[Enllaç a l'aplicació](https://rapidminer.com/)**
+
+### Impacte al sector
+- Democratització de l'accés a eines avançades d'anàlisi de dades.
+- Increment de la competitivitat en el sector analític.
+- Acceleració del desenvolupament de solucions basades en dades.
+
+### Impacte ambiental 🌍
+- Consum energètic elevat durant operacions complexes.
+- Desgast accelerat de hardware per requeriments computacionals intensius.
+
+### Propostes per minimitzar els impactes ambientals ♻️
+- Implementació de processos de monitoratge per optimitzar l'ús energètic.
+- Foment de tecnologies de refredament eficients en centres de dades.
+- Suport a pràctiques de reciclatge de hardware.
+
+---
+
+## 5. Apache Spark 🚀💾
+
+### Les aplicacions de la IA
+- Processament i anàlisi de dades a gran escala.
+- Suport per a treballs en temps real amb dades massives.
+- Integració amb múltiples eines per a aplicacions d'intel·ligència artificial.
+
+🔗 **[Enllaç a l'aplicació](https://spark.apache.org/)**
+
+### Impacte al sector
+- Millora de l'eficiència en processos d'anàlisi de dades massives.
+- Suport per a la innovació en ciència de dades i big data.
+- Reducció del temps de processament per a aplicacions crítiques.
+
+### Impacte ambiental 🌍
+- Gran consum d'energia per al processament de dades distribuït.
+- Alta demanda de recursos en infraestructures de computació.
+
+### Propostes per minimitzar els impactes ambientals ♻️
+- Optimització dels algorismes de distribució de tasques.
+- Desenvolupament de mètodes de compressió de dades per reduir el tràfic.
+- Foment de l'ús de fonts d'energia renovables en infraestructures.
+
+---
+## Altres links

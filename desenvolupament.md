@@ -1,5 +1,5 @@
 # Manual d'Intel·ligència Artificial (IA) per ASIX: Desenvolupament
-
+## Autor: Carlos Rodriguez
 ## **1. Aplicacions de la IA en Desenvolupament**
 
 ### **1.1 Assistents d'Ajuda al Desenvolupament**
@@ -104,4 +104,4 @@ Un API es el codi que permet conectar dos pàgines web diferents:
 - **Consciència ambiental**: Promoure bones pràctiques en el desenvolupament.
 - **Formació**: Introduir sostenibilitat com a part de l'aprenentatge en ASIX.
 
-> **Nota:** La implementació de models eficients i sostenibles és clau per reduir la petjada ambiental del sector tecnològic.
+

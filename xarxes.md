@@ -17,6 +17,7 @@ Darktrace és una eina avançada d’intel·ligència artificial aplicada a la c
 
 ![Darktrace AI detectant amenaces en una xarxa complexa.](tres.png)
 
+
 ---
 
 ## 2. Aplicacions de la IA

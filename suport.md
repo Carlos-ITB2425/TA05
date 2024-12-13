@@ -86,3 +86,6 @@ Iniciar o colaborar con proyectos de captura de carbono o reforestación es una 
 ## Conclusión
 
 La implementación de Zendesk AI ha revolucionado el soporte técnico, mejorando la eficiencia, personalización y satisfacción del cliente. Sin embargo, es importante que las empresas también sean conscientes de los impactos ambientales de estas tecnologías y trabajen activamente para mitigar su huella ecológica. La transición hacia prácticas más sostenibles es esencial para asegurar que los beneficios de la IA no vengan acompañados de consecuencias negativas a largo plazo para el planeta.
+
+
+!![image.png](image.png)

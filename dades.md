@@ -1,4 +1,4 @@
-# IAs per a l'anàlisi de dades
+# IAs per l'anàlisi de dades
 
 Aquest manual descriu les aplicacions, impactes sectorials i ambientals, i proposa solucions per mitigar l'impacte ambiental de cinc IAs populars utilitzades en l'anàlisi de dades.
 

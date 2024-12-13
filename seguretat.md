@@ -5,7 +5,7 @@
 ---
 ## 🔍 1. **[Deep Instinct](https://www.deepinstinct.com/)**
 
-<img src="Deep/deep.png" alt="Logo de deep" width="200" height="200">
+<img src="Imagenes_seguretat/deep.png" alt="Logo de deep" width="200" height="200">
 
 **Descripció:**  
 Deep Instinct utilitza xarxes neuronals profundes per detectar i prevenir amenaces cibernètiques de manera proactiva, millorant la seguretat en temps real.
@@ -37,7 +37,7 @@ deepinstinct --scan --prevent-malware example_file.exe
 
 ## 🌐 2. **[Darktrace](https://www.darktrace.com/)**
 
-<img src="Darktrace.png" alt="Logo de Darktrace" width="300" height="300">
+<img src="Imagenes_seguretat/Darktrace.png" alt="Logo de Darktrace" width="300" height="300">
 
 **Descripció:**  
 Darktrace utilitza l'aprenentatge automàtic per identificar i respondre a anomalies dins de xarxes empresarials en temps real.
@@ -68,7 +68,7 @@ darktrace --monitor --auto-response enable
 
 ## 🛠️ 3. **[Splunk](https://www.splunk.com/)** (amb IA integrada)
 
-<img src="splunk-logo.png" alt="Logo de Splunk" width="400" height="300">
+<img src="Imagenes_seguretat/splunk-logo.png" alt="Logo de Splunk" width="400" height="300">
 
 **Descripció:**  
 Splunk utilitza IA per monitoritzar i analitzar grans volums de dades, millorant la seguretat i la detecció d'incidents.
@@ -99,7 +99,7 @@ splunk search "error" | alert generate
 
 ## 🔒 4. **[CrowdStrike Falcon](https://www.crowdstrike.com/)**
 
-<img src="CSF.png" alt="Logo de CSF" width="300" height="300">
+<img src="Imagenes_seguretat/CSF.png" alt="Logo de CSF" width="300" height="300">
 
 **Descripció:**  
 CrowdStrike Falcon és una plataforma de seguretat basada en IA, que protegeix endpoints i ajuda a prevenir atacs cibernètics sofisticats.
@@ -130,7 +130,7 @@ crowdstrike-falcon --protect endpoint01
 
 ## 🧠 5. **[OpenAI Codex](https://openai.com/codex)** (aplicat a seguretat)
 
-<img src="image-27.png" alt="Logo de Codex" width="300" height="300">
+<img src="Imagenes_seguretat/image-27.png" alt="Logo de Codex" width="300" height="300">
 
 **Descripció:**  
 OpenAI Codex pot ser utilitzat per detectar vulnerabilitats en codi i ajudar a escriure codi segur.
@@ -165,7 +165,7 @@ def vulnerable_function():
 
 ## 🧩 6. **[IBM Watson for Cyber Security](https://www.ibm.com/security/artificial-intelligence)**
 
-![Logo de IBM](IBM_Watson_Explorer.png)
+![Logo de IBM](Imagenes_seguretat/IBM_Watson_Explorer.png)
 
 **Descripció:**  
 IBM Watson utilitza IA per identificar i respondre a amenaces cibernètiques mitjançant l'anàlisi de dades en temps real.

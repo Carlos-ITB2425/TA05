@@ -5,7 +5,7 @@ Aquest manual descriu les aplicacions, impactes sectorials i ambientals, i propo
 ---
 
 ## 1. ChatGPT 🧠💬
-
+![chatgpt](./chat.png)
 ### Les aplicacions de la IA
 - Generació de respostes basades en dades per a consultes.
 - Suport en la interpretació de dades textuals complexes.
@@ -30,7 +30,7 @@ Aquest manual descriu les aplicacions, impactes sectorials i ambientals, i propo
 ---
 
 ## 2. TensorFlow 🤖📊
-
+![TensorFlow](./tensorflow.png)
 ### Les aplicacions de la IA
 - Desenvolupament de models de machine learning per a prediccions.
 - Anàlisi d'imatges, seqüències i dades estructurades.
@@ -55,7 +55,7 @@ Aquest manual descriu les aplicacions, impactes sectorials i ambientals, i propo
 ---
 
 ## 3. Tableau 📈🎨
-
+![Tableau](./tableau.png)
 ### Les aplicacions de la IA
 - Visualització interactiva de dades.
 - Generació d'informes automàtics i personalitzats.
@@ -80,7 +80,7 @@ Aquest manual descriu les aplicacions, impactes sectorials i ambientals, i propo
 ---
 
 ## 4. RapidMiner 🛠️📊
-
+![RapidMiner](./rapidminer.png)
 ### Les aplicacions de la IA
 - Processament de dades automatitzat.
 - Generació de models predictius per a diverses indústries.
@@ -105,7 +105,7 @@ Aquest manual descriu les aplicacions, impactes sectorials i ambientals, i propo
 ---
 
 ## 5. Apache Spark 🚀💾
-
+![spark](./spark.png)
 ### Les aplicacions de la IA
 - Processament i anàlisi de dades a gran escala.
 - Suport per a treballs en temps real amb dades massives.
@@ -126,6 +126,3 @@ Aquest manual descriu les aplicacions, impactes sectorials i ambientals, i propo
 - Optimització dels algorismes de distribució de tasques.
 - Desenvolupament de mètodes de compressió de dades per reduir el tràfic.
 - Foment de l'ús de fonts d'energia renovables en infraestructures.
-
----
-## Altres links

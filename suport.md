@@ -22,7 +22,7 @@ La inteligencia artificial ayuda a clasificar y priorizar los tickets de soporte
 La IA analiza grandes volúmenes de datos históricos para identificar patrones comunes en las incidencias. Esta función ayuda a predecir posibles problemas recurrentes y tomar medidas proactivas antes de que afecten a otros usuarios.
 
 **Ventaja:**
-- Proporciona una visión detallada de las áreas en las que se pueden mejorar los productos o servicios, además de evitar que los mismos problemas ocurran repetidamente.
+- Proporcion una visión detallada de las áreas en las que se pueden mejorar los productos o servicios, además de evitar que los mismos problemas ocurran repetidamente.
 
 ### 4. Análisis del sentimiento del cliente
 El análisis de sentimiento permite identificar la emoción de los usuarios en sus interacciones, priorizando aquellas solicitudes que provienen de clientes insatisfechos o frustrados. Esto ayuda a mejorar la atención a aquellos que podrían necesitar una respuesta más urgente.

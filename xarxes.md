@@ -50,7 +50,7 @@ L’ús de Darktrace també té repercussions ambientals que cal tenir en compte
 - **Consum energètic elevat**: Darktrace requereix servidors i data centers per analitzar grans quantitats de dades, la qual cosa implica un alt consum d’energia.  
 - **Dependència d'infraestructures tecnològiques**: Les instal·lacions necessàries poden contribuir a emissions de carboni si no utilitzen fonts d’energia renovable.  
 
-![d](image.png)
+![d](pensando.png)
 ---
 
 ## 5. Propostes per minimitzar els impactes ambientals

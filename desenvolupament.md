@@ -20,7 +20,7 @@
 
 
 
-![alt text](image.png) ![alt text](image-1.png) ![alt text](image-2.png)
+![alt text](imagenes_dades/image.png) ![alt text](imagenes_dades/image-1.png) ![alt text](imagenes_dades/image-2.png)
 
 
 ### **1.3 Desenvolupament Web**
@@ -30,7 +30,7 @@
 
 
 
-![alt text](image-3.png) ![alt text2](image-4.png)
+![alt text](imagenes_dades/image-3.png) ![alt text2](imagenes_dades/image-4.png)
 
 ### **1.4 Gestor d'APIs i Microserveis**
 Un API es el codi que permet conectar dos pàgines web diferents:
@@ -38,25 +38,25 @@ Un API es el codi que permet conectar dos pàgines web diferents:
 - **Amazon CodeWhisperer**: Optimització en integració d'APIs.
 
 
-![alt-text](image-5.png) ![alt text](image-6.png)
+![alt-text](imagenes_dades/image-5.png) ![alt text](imagenes_dades/image-6.png)
 
 ### **1.5 Models Generatius per a Documentació**
 - **ChatGPT**: Creació de documentació tècnica.
 - **Docusaurus amb IA**: Generació de documentació basada en codi.
 
-![alt text](image-7.png) ![alt text](image-8.png)
+![alt text](imagenes_dades/image-7.png) ![alt text](imagenes_dades/image-8.png)
 
 ### **1.6 Seguretat en Desenvolupament**
 - **Hugging Face Transformers**: Detecció d'activitats malicioses en dades.
 - **OpenAI Codex**: Revisó de vulnerabilitats en el codi.
 
-![alt text](image-9.png) ![alt text](image-10.png)
+![alt text](imagenes_dades/image-9.png) ![alt text](imagenes_dades/image-10.png)
 
 ### **1.7 Aprenentatge Automàtic**
 - **TensorFlow i PyTorch**: Disseny de models d'IA personalitzats.
 - **AutoML**: Generació automàtica de models de machine learning.
 
-![alt text](image-12.png) ![alt text](image-13.png)
+![alt text](imagenes_dades/image-12.png) ![alt text](imagenes_dades/image-13.png)
 
 ---
 

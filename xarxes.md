@@ -15,7 +15,7 @@
 
 Darktrace és una eina avançada d’intel·ligència artificial aplicada a la ciberseguretat. Utilitza l’aprenentatge automàtic i l’anàlisi del comportament per detectar i respondre a ciberamenaces en temps real. La seva funcionalitat principal és l’ús d’algoritmes de Machine Learning per comprendre el "comportament normal" d’una xarxa i identificar anomalies que podrien ser indicatives d’activitats malicioses.
 
-![Darktrace AI detectant amenaces en una xarxa complexa.](tres.png)
+![Darktrace AI detectant amenaces en una xarxa complexa.](imagenes_xarxes/tres.png)
 
 
 ---
@@ -39,7 +39,7 @@ L'ús de Darktrace ha transformat el camp de la ciberseguretat:
 - **Eficiència operativa**: Permet que els equips de seguretat se centrin en tasques crítiques mentre Darktrace s'encarrega d'aspectes rutinaris i automàtics.  
 - **Confiança en la seguretat**: Millora la capacitat d’adaptar-se a amenaces noves i desconegudes, incloent zero-day attacks.  
 
-![Exemple d'impacte de Darktrace en una infraestructura de seguretat moderna.](dos.jpg)
+![Exemple d'impacte de Darktrace en una infraestructura de seguretat moderna.](imagenes_xarxes/dos.jpg)
 
 ---
 
@@ -50,7 +50,7 @@ L’ús de Darktrace també té repercussions ambientals que cal tenir en compte
 - **Consum energètic elevat**: Darktrace requereix servidors i data centers per analitzar grans quantitats de dades, la qual cosa implica un alt consum d’energia.  
 - **Dependència d'infraestructures tecnològiques**: Les instal·lacions necessàries poden contribuir a emissions de carboni si no utilitzen fonts d’energia renovable.  
 
-![d](pensando.png)
+![d](imagenes_xarxes/pensando.png)
 ---
 
 ## 5. Propostes per minimitzar els impactes ambientals
@@ -62,4 +62,4 @@ Per reduir l’impacte ambiental derivat de l’ús de Darktrace, es poden imple
 3. **Polítiques de gestió energètica**: Configurar Darktrace per reduir operacions redundants i prioritzar anàlisis només en moments crítics.  
 4. **Edge Computing**: Emmagatz
 
-![d](DALL·E%202024-12-12%2008.59.19%20-%20An%20illustration%20of%20a%20modern%20AI-powered%20data%20center%20with%20sleek%20servers%20and%20glowing%20LED%20lights,%20emphasizing%20energy%20efficiency.%20The%20servers%20are%20connected.webp)
+![d](imagenes_xarxes/DALL·E%202024-12-12%2008.59.19%20-%20An%20illustration%20of%20a%20modern%20AI-powered%20data%20center%20with%20sleek%20servers%20and%20glowing%20LED%20lights,%20emphasizing%20energy%20efficiency.%20The%20servers%20are%20connected.webp)
